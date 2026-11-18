@@ -1,0 +1,82 @@
+[
+  {
+    "file": "01.jpg",
+    "caption": {
+      "cs": "Ilustrační foto",
+      "en": "Illustration photo"
+    },
+    "position": "55% 45%"
+  },
+  {
+    "file": "02.jpg",
+    "caption": {
+      "cs": "Ilustrační foto",
+      "en": "Illustration photo"
+    },
+    "position": "45% 50%"
+  },
+  {
+    "file": "03.jpg",
+    "caption": {
+      "cs": "Ilustrační foto",
+      "en": "Illustration photo"
+    },
+    "position": "50% 35%"
+  },
+  {
+    "file": "04.jpg",
+    "caption": {
+      "cs": "Ilustrační foto",
+      "en": "Illustration photo"
+    },
+    "position": "62% 50%"
+  },
+  {
+    "file": "05.jpg",
+    "caption": {
+      "cs": "Ilustrační foto",
+      "en": "Illustration photo"
+    },
+    "position": "52% 50%"
+  },
+  {
+    "file": "06.jpg",
+    "caption": {
+      "cs": "Ilustrační foto",
+      "en": "Illustration photo"
+    },
+    "position": "45% 50%"
+  },
+  {
+    "file": "07.jpg",
+    "caption": {
+      "cs": "Ilustrační foto",
+      "en": "Illustration photo"
+    },
+    "position": "60% 35%"
+  },
+  {
+    "file": "08.jpg",
+    "caption": {
+      "cs": "Ilustrační foto",
+      "en": "Illustration photo"
+    },
+    "position": "42% 50%"
+  },
+  {
+    "file": "09.jpg",
+    "caption": {
+      "cs": "Ilustrační foto",
+      "en": "Illustration photo"
+    },
+    "position": "55% 50%"
+  },
+  {
+    "file": "10.jpg",
+    "caption": {
+      "cs": "Ilustrační foto",
+      "en": "Illustration photo"
+    },
+    "position": "50% 50%"
+  }
+]
